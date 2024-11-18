@@ -2,7 +2,7 @@ package com.gulcancelik;
 
 import java.util.*;
 
-public class AppMain {
+public class AppMain { 
 
     public static void main(String[] args) {
 
